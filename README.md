@@ -1,5 +1,5 @@
 def main():
-    print("📝 Simple Notepad")
+    print("📝📝 Simple Notepad")
     print("Type your notes below. Enter 'SAVE' to save and quit.\n")
 
     notes = []
